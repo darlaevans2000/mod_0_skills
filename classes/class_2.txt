@@ -1,0 +1,13 @@
+class Snack
+
+attributes:
+vegetarian (boolean)
+ingredients (array)
+quantity (integer)
+color (string)
+
+methods:
+removeMeat (modifies the vegetarian attribute to true)
+alterIngredients (modifies the ingredients attribute)
+sellSnack (modifies the quantity attribute by -1)
+updateColor (modifies the color attribute)
