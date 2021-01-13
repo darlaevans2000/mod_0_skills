@@ -1,0 +1,12 @@
+var food = "ramen";
+var is_delicious = true;
+food = "toast";
+
+var num2 = 2;
+var num7 = 4;
+var quotient = num2 / num7;
+
+var songs = ["Ringtone", "Hard Times", "Best Friend", "One Step Closer"];
+songs.shift();
+
+var characterNum = food.length;
