@@ -1,0 +1,13 @@
+Pink Lemonade
+
+attributes:
+isAlcoholic = false
+calorieCount + 126
+name = "Darla's Famous Pink Lemonade"
+price = 3.00
+
+methods:
+addShot => isAlcoholic = true
+changeCalories => calorieCount =176
+giveNewName => name = "Darla's Famous Alcoholic Pink Lemonade"
+startHappyHour => price = 2.55
