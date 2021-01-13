@@ -1,0 +1,13 @@
+class Drink
+
+attributes:
+isAlcoholic (boolean)
+calorieCount (integer)
+name (string)
+price (float)
+
+methods:
+addShot (modifies the isAlcoholic attribute to true)
+changeCalories (modifies the calorieCount attribute)
+giveNewName (modifies the name attribute)
+startHappyHour (modifies the price attribute to 15% off)
