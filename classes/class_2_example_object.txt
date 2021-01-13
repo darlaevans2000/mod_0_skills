@@ -1,0 +1,13 @@
+Loaded French Fries
+
+attributes:
+vegetarian = false
+ingredients = ["French Fries", "Bacon", "Cheese", "Chives", "Sour Cream", "Jalapeno"]
+quantity = 4
+color = "Yellow"
+
+methods:
+removeMeat => vegetarian = true
+alterIngredients => ["French Fries", "Cheese", "Chives", "Sour Cream", "Jalapeno"]
+sellSnack => quantity = 3
+updateColor => color = "Brown"
